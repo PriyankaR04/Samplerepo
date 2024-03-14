@@ -1,4 +1,2 @@
-1
-  Public class solution{
-
-  }
+Public class solution{
+}
