@@ -1,4 +1,4 @@
 Public class solution{
- Some changes in this command
+ Some changes in this command.
 }
 
