@@ -1,4 +1,4 @@
 1
   Public class solution{
-    System.out.println(" ");
+    System.out.println(" n ");
   }
